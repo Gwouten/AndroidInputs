@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Register</string>
+    <string name="str_tv_title">Sign in</string>
+    <string name="str_hint_user">Username</string>
+    <string name="str_hint_password">Password</string>
+    <string name="str_tv_gender">Gender</string>
+    <string name="str_rb_male">Male</string>
+    <string name="str_rb_female">Female</string>
+    <string name="str_rb_other">Other</string>
+    <string name="str_swi_tos">I agree to the terms of service</string>
+    <string name="str_btn_submit">Sign in</string>
+</resources>
